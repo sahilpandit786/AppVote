@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VoteApp</string>
+    <string name="Title">Vote Please</string>
+    <string name="txtName">Name:</string>
+    <string name="txtHintName">Write Your Name</string>
+    <string name="txtHintId">Write Your Id</string>
+    <string name="txtId">Id:</string>
+    <string name="btnAccept">ACCEPT</string>
+    <string name="btnVote">VOTE</string>
+    <string-array name="CanidateItem">
+        <item>Choose Candidate</item>
+        <item>Sahil</item>
+        <item>Trudeau</item>
+        <item>Trump</item>
+        <item>Justin</item>
+        <item>Jagmeet</item>
+    </string-array>
+</resources>
